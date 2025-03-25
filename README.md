@@ -1,7 +1,7 @@
-# Client PDF Creation
+# PDF Content
 
 ## Overview
-The `client-pdfcreation` project is designed to generate PDFs for clients using TypeScript. It includes utilities for processing and creating PDF documents efficiently.
+The `pdf-content` project is designed to generate PDFs for clients using TypeScript. It includes utilities for processing and creating PDF documents efficiently.
 
 ## Table of Contents
 - [Installation](#installation)
