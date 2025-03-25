@@ -15,7 +15,7 @@ The `client-pdfcreation` project is designed to generate PDFs for clients using 
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd client-pdfcreation
+   cd pdf-content
    ```
 
 2. **Install dependencies**:
